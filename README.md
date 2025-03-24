@@ -96,7 +96,4 @@ The API will respond with a status code and a message indicating success or fail
 - `shipperId` must be a valid UUID.
 - The weight should be a positive numeric value.
 
-## Contact
-
-For issues or support, contact the development team at [[support@example.com](mailto\:support@example.com)].
 
